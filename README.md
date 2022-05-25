@@ -124,4 +124,4 @@ TIL 간단저장소
 
 2022-05-14 - 웹 애플리케이션 (python, flask, django) /  테스트주도개발방법론 / 소프트웨어설계 9주차 
 
-
+2022-05-25 - 웹 애플리케이션 (python, flask, django) -> 자동화배포구성 (githubAction, AWS S3)
